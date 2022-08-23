@@ -1,7 +1,7 @@
 - 👋 oi. sou o @kalelmozele
 - 🌱 no momento, estou aprendendo a usar o github, usar o javascript e o scratch
 - 💞️ estou procurando colaborar
-- 📫 mas você não pode chegar até mim. :)
+- 📫 e você pode me encontrar em kalel.mozele.oliveira@escola.pr.gov.br
   
 <!---
 kalelmozele/kalelmozele is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
